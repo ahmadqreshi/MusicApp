@@ -8,6 +8,7 @@ Music Application to stream music online
 
 ## Data Handling
 - Utilized Rest API to fetch and display the song lists
+- Handled Error related to URLs
 - Implemented a tab view to showcase "For You" and "Top Tracks
 
 
